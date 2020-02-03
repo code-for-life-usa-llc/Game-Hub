@@ -19,6 +19,8 @@ body {
 	font-smoothing: antialiased;
 }
 
+
+
 h1,
 h2,
 h3,
@@ -330,6 +332,10 @@ ol {
 
 .site-logo {
 	float: left;
+}
+
+.color-logo {
+    text-decoration-color: white;
 }
 
 .user-panel {
